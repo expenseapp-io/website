@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/BlogPost.astro"
 title: "First Steps"
-description: "Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro."
+description: "A little bit about our plans and first steps to make our own app"
 pubDate: "Nov 23 2022"
 heroImage: "/blog-images/first-steps/cover.jpg"
 ---
